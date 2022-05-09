@@ -7,6 +7,7 @@
 ![](https://img.shields.io/badge/Terraform-informational?style=for-the-badge&logo=terraform&logoColor=white&color=844fba)
 ![](https://img.shields.io/badge/Elastic-informational?style=for-the-badge&logo=elasticsearch&logoColor=white&color=66b5ae)
 ![](https://img.shields.io/badge/CI/CD-informational?style=for-the-badge&logo=github&logoColor=white&color=black)
+![](https://img.shields.io/badge/CI/CD-informational?style=for-the-badge&logo=gitlab&logoColor=white&color=black)
 
 ## Manifest
 ```yaml
