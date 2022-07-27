@@ -23,7 +23,7 @@ spec:
       containers:
       - name: nils-rotskyi
         image: human:notreallylatest
-        command: ["work",  "-n=10h"]
+        command: ["work", "-n=10h"]
       restartPolicy: Always
   backoffLimit: 4
 ```
